@@ -1,4 +1,4 @@
-package fr.cpe.soul.idle.primary;
+package fr.cpe.soul.idle;
 
 public class ProgramLauncher {
 
